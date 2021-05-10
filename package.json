@@ -1,0 +1,21 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "\"book management\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"\"",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "\"books\"",
+    "\"management\"",
+    "\"library\""
+  ],
+  "author": "andydang",
+  "license": "ISC"
+}
