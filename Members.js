@@ -1,0 +1,21 @@
+const members=[
+    {
+    id:1,
+    name:'peter',
+    email:'peter@gamil.com',
+    status:'active'
+    },
+    {
+    id:2,
+    name:'john',
+    email:'john@gamil.com',
+    status:'inactive'
+    },
+    {
+    id:3,
+    name:'jane',
+    email:'jane@gamil.com',
+    status:'active'
+    }
+]
+module.exports=members;
